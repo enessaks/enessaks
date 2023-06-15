@@ -10,7 +10,7 @@
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)][email]
 
 [linkedin]: https://www.linkedin.com/in/enes-aksoy/
-[email]: mailto:
+[email]: mailto:muhammed_enes43@hotmail.com
 
 
   
