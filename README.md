@@ -13,17 +13,11 @@
 [email]: mailto:muhammed_enes43@hotmail.com
 
 
-  
-
-
-
-
-<!-- <h3 align="left">Tools:</h3>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="70" height="30"/> </a> -->
-
 #### Languages 
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enessaks&layout=compact&theme=radical) 
 
+#### Java Repositories
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enessaks&show_owner=true&theme=tokyonight&repo=Estate-Management-System)](https://github.com/enessaks/Estate-Management-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enessaks&show_owner=true&theme=tokyonight&repo=Pool-Automation-System)](https://github.com/enessaks/Pool-Automation-System)
