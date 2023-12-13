@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhammed Enes Aksoy!👋
 
 #### About Me
--  I am a 4th year Computer Engineering student at Ankara University. Currently, I am focusing on improving my Java and Cyber Security skills.
+-  I graduated from Ankara University Computer Engineering. I am focusing on improving my .NET, Java and Cyber security skills. I am currently working in a company on the IoT.
 
 #### How to Get in Touch
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin] 
