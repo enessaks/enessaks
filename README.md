@@ -12,9 +12,9 @@
 
 
 #### Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enessaks&layout=compact&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammet-enes-aksoy&layout=compact&theme=radical) 
 
 #### Java Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammet-enes-aksoy&show_owner=true&theme=tokyonight&repo=Pool-Automation-System)](https://github.com/enessaks/Pool-Automation-System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammet-enes-aksoy&show_owner=true&theme=tokyonight&repo=Estate-Management-System)](https://github.com/enessaks/Estate-Management-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammet-enes-aksoy&show_owner=true&theme=tokyonight&repo=Pool-Automation-System)](https://github.com/muhammet-enes-aksoy/Pool-Automation-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammet-enes-aksoy&show_owner=true&theme=tokyonight&repo=Estate-Management-System)](https://github.com/muhammet-enes-aksoy/Estate-Management-System)
 
