@@ -7,7 +7,7 @@
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin] 
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)][email]
 
-[linkedin]: https://www.linkedin.com/in/enes-aksoy/
+[linkedin]: https://github.com/muhammet-enes-aksoy
 [email]: mailto:muhammed_enes43@hotmail.com
 
 
