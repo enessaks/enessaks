@@ -1,4 +1,4 @@
-### Hi there, I'm Muhammed Enes Aksoy!👋
+### Hi there, I'm Muhammet Enes Aksoy!👋
 
 #### About Me
 -  I graduated from Ankara University Computer Engineering. I am focusing on improving my .NET, Java and Cyber security skills. I am currently working in a company on the IoT.
