@@ -15,6 +15,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammet-enes-aksoy&layout=compact&theme=radical) 
 
 #### Java Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammet-enes-aksoy&show_owner=true&theme=tokyonight&repo=Book-Store)](https://github.com/muhammet-enes-aksoy/Book-Store)
+
+#### Java Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammet-enes-aksoy&show_owner=true&theme=tokyonight&repo=FlightSearchAPI)](https://github.com/muhammet-enes-aksoy/FlightSearchAPI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammet-enes-aksoy&show_owner=true&theme=tokyonight&repo=Pool-Automation-System)](https://github.com/muhammet-enes-aksoy/Pool-Automation-System)
 
