@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhammet Enes Aksoy!👋
 
 #### About Me
--  I graduated from Ankara University Computer Engineering. I am focusing on improving my .NET, Java and Cyber security skills. I am currently working in a company on the IoT.
+-  I graduated from Ankara University Computer Engineering. I am focusing on improving my .NET, Java and Cyber security skills. I am currently working as a software engineer at Param.
 
 #### How to Get in Touch
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin] 
